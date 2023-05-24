@@ -1,0 +1,117 @@
+.text-10 {
+    font-size: 10px !important
+}
+
+.text-15 {
+    font-size: 15px !important
+}
+
+.text-20 {
+    font-size: 20px !important
+}
+
+.text-25 {
+    font-size: 25px !important
+}
+
+.text-30 {
+    font-size: 30px !important
+}
+
+.text-35 {
+    font-size: 35px !important
+}
+
+.text-40 {
+    font-size: 40px !important
+}
+
+.text-45 {
+    font-size: 45px !important
+}
+
+.text-50 {
+    font-size: 50px !important
+}
+
+.text-55 {
+    font-size: 55px !important
+}
+
+.text-60 {
+    font-size: 60px !important
+}
+
+.text-65 {
+    font-size: 65px !important
+}
+
+.text-70 {
+    font-size: 70px !important
+}
+
+.text-75 {
+    font-size: 75px !important
+}
+
+.text-80 {
+    font-size: 80px !important
+}
+
+.text-85 {
+    font-size: 85px !important
+}
+
+.text-90 {
+    font-size: 90px !important
+}
+
+.text-95 {
+    font-size: 95px !important
+}
+
+.text-100 {
+    font-size: 100px !important
+}
+
+.title-solo, h2, h3{
+	color: #ffffff;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 25px;
+}
+
+.bx-wrapper{
+    border: 0px !important;
+    background: transparent !important;
+    margin-bottom: 0px !important;
+    box-shadow: none !important;
+}
+
+a{
+    color: #fff !important;
+}
+
+@media (max-width: 768px) {
+    .glitch__img{
+        background-size: 138% !important;
+    }
+
+    .img-logo{
+        max-width: 71%;
+    }
+}
+
+.text-cinemotion{
+    color: #d59d25 !important;
+}
+
+.video-demo{
+    border: 7px solid #d59d25 !important;
+    border-radius: 5px;
+}
+
+#slider-redes{
+    margin: 80px auto 0px !important;
+}
